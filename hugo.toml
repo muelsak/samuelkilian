@@ -1,5 +1,6 @@
+relativeURLs = true
+uglyURLs = true
 title = "Samuel Kilian"
-baseURL = "https://samuelkilian.de"
 theme = "gohugo-theme-ananke"
 
 SectionPagesMenu = "main"
