@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel Kilian</title>
+    <link>/</link>
+    <description>Recent content on Samuel Kilian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impressum</title>
+      <link>/impressum.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/impressum.html</guid>
+      <description>Samuel Kilian
+Wörthstraße 7, 69115 Heidelberg
+info@samuelkilian.de
+0176 456 35905</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>/contact.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact.html</guid>
+      <description>info@samuelkilian.de</description>
+    </item>
+    
+    <item>
+      <title>Leben &amp; Werk</title>
+      <link>/about.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about.html</guid>
+      <description>Samuel Kilian kam 2010 für das Studium der Mathematik nach Heidelberg und fand damit seine neue Wahlheimat. Im Jahr 2014 wurde das Hobby Musik zur Semiprofession, als er der Pianist des Studierendenchores Klangfarben wurde.
+Im Jahr 2022 ging er mit seinen Liedern bei einem Liederslam des Kulturfensters Heidelberg erstmals an die Öffentlichkeit. Die begeisterte Rezension der Rhein-Neckar-Zeitung benutzt der mehrfache Liederslam-Finalist noch heute zu Werbezwecken ;)
+Seitdem unterhält er mit seiner humorvollen Musik die offenen Bühnen, Feste und anderen Kulturorte der Region.</description>
+    </item>
+    
+    <item>
+      <title>Musik</title>
+      <link>/musik.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/musik.html</guid>
+      <description>Samuel Kilians Lieder können den Genres Kabarett, Liedermacher, Chanson und Comedy zugeordnet werden. Sie beschäftigen sich oft mit alltäglichen Leidensthemen wie Onlinedating, Erektionsproblemen oder Autos, die nicht blinken. Aber auch vor berührenden Liedern über gescheiterte Beziehungen oder die Flucht aus dem Alltag macht er nicht Halt.
+Das Instrument seiner Wahl ist das Klavier, doch auch der Griff zur Gitarre ist bei seinen Konzerten keine Seltenheit. Darüber hinaus kommen die ikonische Nasenflöte und weitere Überraschungsinstrumente zum Einsatz.</description>
+    </item>
+    
+    <item>
+      <title>Termine</title>
+      <link>/termine.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/termine.html</guid>
+      <description>20.07.2023 in Heidelberg, Café Leitstelle20.07.2023, 19:30 Uhr Café Leitstelle 20-minütiges Set Opening Act für Klara Finck Tickets gibt es an der Abendkasse für 10 €. Einlass um 19 Uhr 23.07.2023 in Heidelberg, Parkfest des Verein gegen Müdigkeit23.07.2023, 17 Uhr Parkfest Bella Park des Verein gegen Müdigkeit 45-minütiges Set Eintritt frei! 25.07.2023 in Heidelberg, Karlstorbahnhof25.07.2023, ab 20 Uhr Offene Bühne im TiK des Karlstorbahnhof Eintritt frei! </description>
+    </item>
+    
+  </channel>
+</rss>
