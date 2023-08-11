@@ -24,12 +24,20 @@ enableRobotsTXT = true
   impressum = "/impressum"
 
 [[params.ananke_socials]]
-  name = "instagram"
+  name = "instagram2"
   url = "https://www.instagram.com/samuel.klang/"
 
 [[params.ananke_socials]]
-  name = "youtube"
+  name = "youtube2"
   url = "https://www.youtube.com/@samuel.kilian/"
+
+[[params.ananke_socials]]
+  name = "spotify2"
+  url = "https://open.spotify.com/intl-de/artist/1Qgjs72RXBJQetKofNaFvL?si=odU0lpzNQ1mkqkV2QP3I7w"
+
+[[params.ananke_socials]]
+  name = "facebook2"
+  url = "https://www.facebook.com/SamuelKilianHD"
 
   
 
