@@ -2,7 +2,7 @@
 title: "Musik"
 draft: false
 menu: main
-featured_image: "cave_cut2.jpg"
+featured_image: "cave_cut2_credit.jpg"
 ---
 
 Samuel Kilians Lieder können den Genres Kabarett, Liedermacher, Chanson und Comedy zugeordnet werden. Sie beschäftigen sich oft mit alltäglichen Leidensthemen wie Onlinedating, Erektionsproblemen oder Autos, die nicht blinken. Aber auch vor berührenden Liedern über gescheiterte Beziehungen oder die Flucht aus dem Alltag macht er nicht Halt.
