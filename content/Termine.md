@@ -6,8 +6,8 @@ featured_image: 'cave_2_cut_credit.jpg'
 ---
 
 ***
-{{< detail-tag "01.10.2023 in Heidelberg, Römerbad" >}}
-* 01.10.2023, 18:00 Uhr 
+{{< detail-tag "03.10.2023 in Heidelberg, Römerbad" >}}
+* 03.10.2023, 15:00 Uhr 
 * Full Concert am [Neckarort Römerbad](https://neckarorte-heidelberg.de/category/neckarort-roemerbad/)
 * Eintritt frei! 
 {{< /detail-tag >}}
