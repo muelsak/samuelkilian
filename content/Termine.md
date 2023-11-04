@@ -11,6 +11,12 @@ featured_image: 'cave_2_cut_credit.jpg'
 * Musikalische Untermalung beim [Poetry Slam](https://maschinenfabrik-hn.de/poetryslam/)
 {{< /detail-tag >}}
 ***
+{{< detail-tag "17.11.2023 in Heidelberg, Café Leitstelle" >}}
+* 17.11.2023, 19:00 Uhr 
+* Musikalische Untermalung bei der Vernissage "Nähe.Distanz" im [Café Leitstlle](https://dezernat16.de/leitstelle/)
+* Eintritt frei!
+{{< /detail-tag >}}
+***
 {{< detail-tag "28.11.2023 in Weinheim, Schloss Weinheim" >}}
 * 28.11.2023, 19:30 Uhr 
 * [Kunst gegen Bares](https://schloss-weinheim.com/schloss-weinheim-kunst-gegen-bares/)
@@ -21,7 +27,7 @@ featured_image: 'cave_2_cut_credit.jpg'
 * Musikalische Untermalung beim [Poetry Slam](https://www.karlstorbahnhof.de/#preview=9085)
 {{< /detail-tag >}}
 ***
-{{< detail-tag "13.12.2023 in Mannheim, Karlstorbahnhof" >}}
+{{< detail-tag "13.12.2023 in Mannheim, Alte Feuerwache" >}}
 * 13.12.2023, 20 Uhr 
 * Musikalische Untermalung beim [Poetry Slam](https://altefeuerwache.com/programm/termin/2023/dezember/13/word-up-poetry-slam-deluxe-22/)
 {{< /detail-tag >}}
