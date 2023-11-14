@@ -2,7 +2,7 @@
 title: "Musik"
 draft: false
 menu: main
-featured_image: "cave_cut2_credit.jpg"
+featured_image: "cave_cut2_credit_web.jpg"
 ---
 
 {{< youtube 7yYwmS0CHFQ >}}
