@@ -4,12 +4,7 @@ draft: false
 menu: main
 featured_image: 'cave_2_cut_credit.jpg'
 ---
-***
-{{< detail-tag "17.11.2023 in Heidelberg, Café Leitstelle" >}}
-* 17.11.2023, 19:00 Uhr 
-* Musikalische Untermalung bei der Vernissage "Nähe.Distanz" im [Café Leitstlle](https://dezernat16.de/leitstelle/)
-* Eintritt frei!
-{{< /detail-tag >}}
+
 ***
 {{< detail-tag "28.11.2023 in Weinheim, Schloss Weinheim" >}}
 * 28.11.2023, 19:30 Uhr 
