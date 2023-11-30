@@ -6,11 +6,6 @@ featured_image: 'cave_2_cut_credit.jpg'
 ---
 
 ***
-{{< detail-tag "28.11.2023 in Weinheim, Schloss Weinheim" >}}
-* 28.11.2023, 19:30 Uhr 
-* [Kunst gegen Bares](https://schloss-weinheim.com/schloss-weinheim-kunst-gegen-bares/)
-{{< /detail-tag >}}
-***
 {{< detail-tag "05.12.2023 in Mannheim, capitol" >}}
 * 05.12.2023, 20:00 Uhr 
 * [BOOM - Der Comedy Club](https://www.capitol-mannheim.de/veranstaltung/boom-der-comedy-club-dez23?termin=0&sortierung=0)
@@ -24,6 +19,11 @@ featured_image: 'cave_2_cut_credit.jpg'
 {{< detail-tag "13.12.2023 in Mannheim, Alte Feuerwache" >}}
 * 13.12.2023, 20:00 Uhr 
 * Musikalische Untermalung beim [Poetry Slam](https://altefeuerwache.com/programm/termin/2023/dezember/13/word-up-poetry-slam-deluxe-22/)
+{{< /detail-tag >}}
+***
+{{< detail-tag "15.12.2023 in Heidelberg, Bairro" >}}
+* 15.12.2023, 20:00 Uhr 
+* Abendfüllendes Konzert im Rahmen der "Cozy Concert"-Reihe im [Bairro](https://www.instagram.com/bairrocafebar/?hl=de)
 {{< /detail-tag >}}
 ***
 {{< detail-tag "04.02.2024 in Mainz, unterhaus" >}}
