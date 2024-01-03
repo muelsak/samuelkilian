@@ -39,6 +39,10 @@ enableRobotsTXT = true
   name = "facebook2"
   url = "https://www.facebook.com/SamuelKilianHD"
 
+[[params.ananke_socials]]
+  name = "nelevz"
+  url = "/nelevz"
+
   
 
 [menu]
