@@ -2,7 +2,7 @@
 title: "Termine"
 draft: false
 menu: main
-featured_image: 'cave_2_cut_credit.jpg'
+featured_image: 'blinker_cut_credit.jpg'
 ---
 
 ***
