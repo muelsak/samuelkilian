@@ -10,7 +10,7 @@ Und zwar oberkörperfrei und mit Haferlatte. Mit viel Selbstironie berichtet Sam
 Mit Comedy, Klavier und Gitarre führt er sein Publikum auf eine abenteuerliche Reise. Ob Schlager oder Hip-Hop, kein Genre ist vor ihm sicher. Seine Pointen unterstreicht er mit überraschenden Instrumenten und seine Wortwitze sind flacher als unsere Erde.
 
 
-
+{{< youtube jIvTjAAxdJE >}}
 &nbsp;  
 
 Samuel Kilians Programm kann den Genres Musical Comedy, Liedermacher und Kabarett zugeordnet werden. Auf Social Media ist er durch den viralen Hit [Ich geh jetzt bouldern](https://www.instagram.com/reel/CvMXyCHohkO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) bekannt geworden. Seine Lieder beschäftigen sich auf selbstironische Weise mit einer bunten Mischung an Themen wie [Tinder](https://www.instagram.com/reel/C0XNh8oMvl8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), [Hundebesitzern](https://www.instagram.com/reel/C0hr5Nus6QR/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) oder [Fußgängern auf Fahrradwegen](https://www.instagram.com/reel/Czos7wNMEEN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==). Aber auch vor berührenden Liedern über gescheiterte Beziehungen oder die Flucht aus dem Alltag macht er nicht Halt.
