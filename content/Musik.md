@@ -6,8 +6,9 @@ featured_image: "cave_cut2_credit_web.jpg"
 ---
 
 **"Ich geh' jetzt bouldern"**   
-Und zwar oberkörperfrei und mit Haferlatte. Mit viel Selbstironie berichtet Samuel Kilian nicht nur von seinem neuen Hobby, sondern auch von alltäglichen Problemen und kreativen Lösungen. Sei es die Kettensäge gegen Kettenraucher oder die optimale Stellung beim Liebesakt mit einer Covid-infizierten Person. Mit einem Augenzwinkern berichtet der notorische Single von Erektionsproblemen und schief gelaufenen Tinder-Dates. Als promovierter Statistiker ist er nicht nur für Doktorspiele qualifiziert, sondern auch, um den Zeitgeist seiner Mitmenschen treffend zu analysieren.  
-Mit Comedy, Klavier und Gitarre führt er sein Publikum auf eine abenteuerliche Reise. Ob Schlager oder Hip-Hop, kein Genre ist vor ihm sicher. Seine Pointen unterstreicht er mit überraschenden Instrumenten und seine Wortwitze sind flacher als unsere Erde.
+Und zwar oberkörperfrei und mit Haferlatte. Mit viel Selbstironie berichtet Samuel Kilian nicht nur von seinem neuen Hobby, sondern auch von alltäglichen Problemen und kreativen Lösungen. Sei es der Rammbock gegen Hindernisse auf dem Fahrradweg oder Verhaltensregeln beim Date mit einer Covid-infizierten Person. Mit einem Augenzwinkern berichtet der notorische Single von Erektionsproblemen und schief gelaufenen Tinder-Dates. Als promovierter Statistiker ist er nicht nur für Doktorspiele qualifiziert, sondern auch, um den Zeitgeist seiner Mitmenschen treffend zu analysieren.
+Mit Comedy, Klavier und Gitarre führt er sein Publikum auf eine abwechslungsreiche Reise. Ob Schlager oder Hip-Hop, kein Genre ist vor ihm sicher. Seine Pointen unterstreicht er mit überraschenden Instrumenten und seine Wortwitze sind flacher als unsere Erde.
+
 
 
 {{< youtube jIvTjAAxdJE >}}

@@ -6,11 +6,6 @@ featured_image: 'blinker_cut_credit.jpg'
 ---
 
 ***
-{{< detail-tag "15.08.2024 in Deutzen, adriAkustik" >}}
-* 15.08.2024
-* Feature bei Walters Liedermachershow beim [adriAkustik Festival](https://www.adriakustik.de/)
-{{< /detail-tag >}}
-***
 {{< detail-tag "08.09.2024 in Gütersloh, Wapelbad" >}}
 * 08.09.2024, 18 Uhr
 * Volles Programm im [Wapelbad Gütersloh](https://www.wapelbad.de/)
