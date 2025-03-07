@@ -8,7 +8,7 @@ featured_image: "cave_cut2_credit_web.jpg"
 **"Ich geh' jetzt bouldern"**   
 Und zwar oberkörperfrei und mit Haferlatte. Mit viel Selbstironie berichtet Samuel Kilian nicht nur von seinem neuen Hobby, sondern auch von alltäglichen Problemen und kreativen Lösungen. Sei es der Rammbock gegen Hindernisse auf dem Fahrradweg oder die Kettensäge gegen Kettenraucher. Mit einem Augenzwinkern berichtet der notorische Single von Erektionsproblemen und schief gelaufenen Tinder-Dates. Als promovierter Statistiker ist er dabei sogar für Doktorspiele qualifiziert.
 
-Mit Comedy, Musik, Zaubertricks und Küchentipps ist seine Show alles andere als vorhersehbar. Ob Schlager oder Hip-Hop, kein Genre ist vor ihm sicher. Seine Pointen unterstreicht er mit überraschenden Instrumenten und seine Wortwitze sind flacher als unsere Erde.
+Mit Comedy, Musik und Küchentipps ist seine Show alles andere als vorhersehbar. Ob Schlager oder Hip-Hop, kein Genre ist vor ihm sicher. Seine Pointen unterstreicht er mit überraschenden Instrumenten und seine Wortwitze sind flacher als unsere Erde.
 
 
 
