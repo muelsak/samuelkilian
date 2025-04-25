@@ -39,6 +39,11 @@ enableRobotsTXT = true
   name = "facebook2"
   url = "https://www.facebook.com/SamuelKilianHD"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
   
 
 [menu]
@@ -55,6 +60,10 @@ enableRobotsTXT = true
   pageRef = '/about'
   weight = 30
 [[menu.main]]
+  name = 'Vollkornmail'
+  pageRef = '/vollkornmail'
+  weight = 40
+[[menu.main]]
   name = 'Kontakt'
   pageRef = '/contact'
-  weight = 40
+  weight = 50
