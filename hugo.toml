@@ -5,9 +5,10 @@ theme = "gohugo-theme-ananke"
 
 
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+[pagination]
+  pagerSize = 1
 
 [params]
   text_color = ""
@@ -20,23 +21,35 @@ enableRobotsTXT = true
   recent_posts_number = 3
   body_classes = "avenir bg-near-white"
 
+[params.ananke]
+  show_recent_posts = false
+
+[params.ananke.social.follow]
+  new_window_icon = false
+  networks = [
+    "instagram",
+    "youtube",
+    "spotify",
+    "facebook"
+  ]
+
 [params.mysite]
   impressum = "/impressum"
 
-[[params.ananke_socials]]
-  name = "instagram2"
+[params.ananke.social.instagram]
+  username = "samuelkilian.de"
   url = "https://www.instagram.com/samuelkilian.de/"
 
-[[params.ananke_socials]]
-  name = "youtube2"
+[params.ananke.social.youtube]
+  username = "samuel.kilian"
   url = "https://www.youtube.com/@samuel.kilian/"
 
-[[params.ananke_socials]]
-  name = "spotify2"
+[params.ananke.social.spotify]
+  username = "1Qgjs72RXBJQetKofNaFvL?si=odU0lpzNQ1mkqkV2QP3I7w"
   url = "https://open.spotify.com/intl-de/artist/1Qgjs72RXBJQetKofNaFvL?si=odU0lpzNQ1mkqkV2QP3I7w"
 
-[[params.ananke_socials]]
-  name = "facebook2"
+[params.ananke.social.facebook]
+  name = "SamuelKilianHD"
   url = "https://www.facebook.com/SamuelKilianHD"
 
 [markup]
@@ -46,24 +59,3 @@ enableRobotsTXT = true
 
   
 
-[menu]
-[[menu.main]]
-  name = 'Termine'
-  pageRef = '/termine'
-  weight = 10
-[[menu.main]]
-  name = 'Musik'
-  pageRef = '/Musik'
-  weight = 20
-[[menu.main]]
-  name = 'Leben & Werk'
-  pageRef = '/about'
-  weight = 30
-[[menu.main]]
-  name = 'Vollkornmail'
-  pageRef = '/vollkornmail'
-  weight = 40
-[[menu.main]]
-  name = 'Kontakt'
-  pageRef = '/contact'
-  weight = 50

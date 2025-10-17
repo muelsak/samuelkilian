@@ -2,20 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories.html</loc>
+    <loc>//localhost:1313/categories/index.html</loc>
   </url><url>
-    <loc>/impressum.html</loc>
+    <loc>//localhost:1313/impressum.html</loc>
   </url><url>
-    <loc>/contact.html</loc>
+    <loc>//localhost:1313/contact.html</loc>
   </url><url>
-    <loc>/about.html</loc>
+    <loc>//localhost:1313/about.html</loc>
   </url><url>
-    <loc>/musik.html</loc>
+    <loc>//localhost:1313/musik.html</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/index.html</loc>
   </url><url>
-    <loc>/tags.html</loc>
+    <loc>//localhost:1313/tags/index.html</loc>
   </url><url>
-    <loc>/termine.html</loc>
+    <loc>//localhost:1313/termine.html</loc>
+  </url><url>
+    <loc>//localhost:1313/vollkornmail.html</loc>
   </url>
 </urlset>

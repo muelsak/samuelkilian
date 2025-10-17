@@ -1,5 +1,6 @@
 ---
 title: "Impressum"
+featured_image: 'pic1_cut_web.jpg'
 ---
 
 Samuel Kilian  

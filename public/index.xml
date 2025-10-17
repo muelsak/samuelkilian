@@ -2,60 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Samuel Kilian</title>
-    <link>/</link>
+    <link>//localhost:1313/index.html</link>
     <description>Recent content on Samuel Kilian</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Impressum</title>
-      <link>/impressum.html</link>
+      <link>//localhost:1313/impressum.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/impressum.html</guid>
-      <description>Samuel Kilian
-Wörthstraße 7, 69115 Heidelberg
-info@samuelkilian.de
-0176 456 35905</description>
+      <guid>//localhost:1313/impressum.html</guid>
+      <description>&lt;p&gt;Samuel Kilian&lt;br&gt;&#xA;Wörthstraße 7, 69115 Heidelberg&lt;br&gt;&#xA;&lt;a href=&#34;mailto:info@samuelkilian.de&#34;&gt;info@samuelkilian.de&lt;/a&gt;&lt;br&gt;&#xA;0176 456 35905&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kontakt</title>
-      <link>/contact.html</link>
+      <link>//localhost:1313/contact.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact.html</guid>
-      <description>info@samuelkilian.de</description>
+      <guid>//localhost:1313/contact.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;mailto:info@samuelkilian.de&#34;&gt;info@samuelkilian.de&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Leben &amp; Werk</title>
-      <link>/about.html</link>
+      <link>//localhost:1313/about.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about.html</guid>
-      <description>Samuel Kilian kam 2010 für das Studium der Mathematik nach Heidelberg und fand damit seine neue Wahlheimat. Im Jahr 2014 wurde das Hobby Musik zur Semiprofession, als er der Pianist des Studierendenchores Klangfarben wurde.
-Im Jahr 2022 ging er mit seinen Liedern bei einem Liederslam des Kulturfensters Heidelberg erstmals an die Öffentlichkeit. Die begeisterte Rezension der Rhein-Neckar-Zeitung benutzt der mehrfache Liederslam-Finalist noch heute zu Werbezwecken ;)
-Seitdem unterhält er mit seiner humorvollen Musik die offenen Bühnen, Feste und anderen Kulturorte der Region.</description>
+      <guid>//localhost:1313/about.html</guid>
+      <description>&lt;p&gt;Samuel Kilian ist eigentlich promovierter Statistiker und lebt in Heidelberg. Im Jahr 2022 ging er mit seinen Liedern erstmals an die Öffentlichkeit. Mit einem begeisterten Publikum und einer begeisterten &lt;a href=&#34;https://www.rnz.de/kultur/kultur-regional_artikel,-Heidelberg-Beim-Liederslam-kann-man-sich-auch-mal-zuruecklehnen-_arid,804697.html&#34;&gt;Rezension&lt;/a&gt; begann seine Karriere als Musik-Comedian.&lt;/p&gt;&#xA;&lt;p&gt;Seitdem unterhält er mit seiner humorvollen Musik die Bühnen Deutschlands. Er spielte unter anderem im Karlstorbahnhof Heidelberg, in der Maschinenfabrik Heilbronn, im Capitol Mannheim, im Mainzer Unterhaus und im Schwager Theater Olten. Er gewann Jury- und Publikumspreis beim &lt;a href=&#34;https://de.wikipedia.org/wiki/Obernburger_M%C3%BChlstein&#34;&gt;Obernburger Mühlstein&lt;/a&gt;,  erreichte Top-3-Platzierungen beim &lt;a href=&#34;https://www.kabarett-bielefeld.de/&#34;&gt;Bielefelder Kabarettpreis&lt;/a&gt; und beim &lt;a href=&#34;https://www.kabarett-casting.ch/samuel-kilian-klettert-aufs-podest/&#34;&gt;Oltner Kabarettcasting&lt;/a&gt; und ist Absolvent der &lt;a href=&#34;https://www.celler-schule.de/&#34;&gt;Celler Schule&lt;/a&gt;. Weiterhin gewann er mehrere Songslams und war bereits mit Mark Forster im Fernsehen.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Musik</title>
-      <link>/musik.html</link>
+      <link>//localhost:1313/musik.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/musik.html</guid>
-      <description>Samuel Kilians Lieder können den Genres Liedermacher, Kabarett und Comedy zugeordnet werden. Sie beschäftigen sich auf selbstironische Weise mit alltäglichen Leidensthemen wie Onlinedating, Erektionsproblemen oder Autos, die nicht blinken. Aber auch vor berührenden Liedern über gescheiterte Beziehungen oder die Flucht aus dem Alltag macht er nicht Halt.
-Das Instrument seiner Wahl ist das Klavier, doch auch der Griff zur Gitarre ist bei seinen Konzerten keine Seltenheit. Darüber hinaus kommen die ikonische Nasenflöte und weitere Überraschungsinstrumente zum Einsatz.</description>
+      <guid>//localhost:1313/musik.html</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&amp;ldquo;Ich geh&amp;rsquo; jetzt bouldern&amp;rdquo;&lt;/strong&gt;&lt;br&gt;&#xA;Und zwar oberkörperfrei und mit Haferlatte. Mit viel Selbstironie berichtet Samuel Kilian nicht nur von seinem neuen Hobby, sondern auch von alltäglichen Problemen und kreativen Lösungen. Sei es der Rammbock gegen Hindernisse auf dem Fahrradweg oder die Kettensäge gegen Kettenraucher. Mit einem Augenzwinkern berichtet der notorische Single von Erektionsproblemen und schief gelaufenen Tinder-Dates. Als promovierter Statistiker ist er dabei sogar für Doktorspiele qualifiziert.&lt;/p&gt;&#xA;&lt;p&gt;Mit Comedy, Musik und Küchentipps ist seine Show alles andere als vorhersehbar. Ob Schlager oder Hip-Hop, kein Genre ist vor ihm sicher. Seine Pointen unterstreicht er mit überraschenden Instrumenten und seine Wortwitze sind flacher als unsere Erde.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Termine</title>
-      <link>/termine.html</link>
+      <link>//localhost:1313/termine.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/termine.html</guid>
-      <description> 18.10.2023 in Heidelberg, Café Leitstelle18.10.2023, 20:00 Uhr Songwriter Night im Café Leitstelle Abendkasse 10 € 26.10.2023 in Heidelberg, Liederslam im Kulturfenster26.10.2023, 19:00 Uhr Liederslam im Kulturfenster Heidelberg Abendkasse 8 €/5 € 10.11.2023 in Heilbronn, Maschinenfabrik10.11.2023, 19:30 Uhr Musikalische Untermalung beim Poetry Slam Tickets 11,34 € 12.12.2023 in Heidelberg, Karlstorbahnhof12.12.2023, 20 Uhr Musikalische Untermalung beim Poetry Slam Tickets 12 € 13.12.2023 in Mannheim, Karlstorbahnhof12.12.2023, 20 Uhr Musikalische Untermalung beim Poetry Slam Tickets 12 € </description>
+      <guid>//localhost:1313/termine.html</guid>
+      <description>&lt;script charset=&#34;utf-8&#34; src=&#34;https://widgetv3.bandsintown.com/main.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;  &lt;a class=&#34;bit-widget-initializer&#34;&#xD;&#xA;    &#xD;&#xA;&#x9;data-artist-name=&#34;id_15558665&#34;&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;data-background-color=&#34;#ffffff&#34;&#xD;&#xA;&#x9;data-separator-color=&#34;#DDDDDD&#34;&#xD;&#xA;&#x9;data-text-color=&#34;#424242&#34;&#xD;&#xA;&#x9;data-font=&#34;Helvetica&#34;&#xD;&#xA;&#x9;data-auto-style=&#34;false&#34;&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;data-button-label-capitalization=&#34;capitalize&#34;&#xD;&#xA;&#x9;data-header-capitalization=&#34;undefined&#34;&#xD;&#xA;&#x9;data-location-capitalization=&#34;capitalize&#34;&#xD;&#xA;&#x9;data-venue-capitalization=&#34;capitalize&#34;&#xD;&#xA;&#x9;data-display-local-dates=&#34;true&#34;&#xD;&#xA;&#x9;data-local-dates-position=&#34;tab&#34;&#xD;&#xA;&#x9;data-display-past-dates=&#34;false&#34;&#xD;&#xA;&#x9;data-display-details=&#34;&#34;&#xD;&#xA;&#x9;data-display-lineup=&#34;&#34;&#xD;&#xA;&#x9;data-display-start-time=&#34;false&#34;&#xD;&#xA;&#x9;data-social-share-icon=&#34;true&#34;&#xD;&#xA;&#x9;data-display-limit=&#34;all&#34;&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;data-date-format=&#34;DD.MM.YYYY&#34;&#xD;&#xA;&#x9;data-date-orientation=&#34;horizontal&#34;&#xD;&#xA;&#x9;data-date-border-color=&#34;#4A4A4A&#34;&#xD;&#xA;&#x9;data-date-border-width=&#34;1px&#34;&#xD;&#xA;&#x9;data-date-capitalization=&#34;undefined&#34;&#xD;&#xA;&#x9;data-date-border-radius=&#34;10px&#34;&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;data-event-ticket-cta-size=&#34;medium&#34;&#xD;&#xA;&#x9;data-event-custom-ticket-text=&#34;undefined&#34;&#xD;&#xA;&#x9;data-event-ticket-text=&#34;TICKETS&#34;&#xD;&#xA;&#x9;data-event-ticket-icon=&#34;&#34;&#xD;&#xA;&#x9;data-event-ticket-cta-text-color=&#34;#FFFFFF&#34;&#xD;&#xA;&#x9;data-event-ticket-cta-bg-color=&#34;#4A4A4A&#34;&#xD;&#xA;&#x9;data-event-ticket-cta-border-color=&#34;#4A4A4A&#34;&#xD;&#xA;&#x9;data-event-ticket-cta-border-width=&#34;0px&#34;&#xD;&#xA;&#x9;data-event-ticket-cta-border-radius=&#34;4px&#34;&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;data-sold-out-button-text-color=&#34;#FFFFFF&#34;&#xD;&#xA;&#x9;data-sold-out-button-background-color=&#34;#4A4A4A&#34;&#xD;&#xA;&#x9;data-sold-out-button-border-color=&#34;#4A4A4A&#34;&#xD;&#xA;&#x9;data-sold-out-button-clickable=&#34;true&#34;&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;data-event-rsvp-position=&#34;hidden&#34;&#xD;&#xA;&#x9;data-event-rsvp-cta-size=&#34;medium&#34;&#xD;&#xA;&#x9;data-event-rsvp-only-show-icon=&#34;undefined&#34;&#xD;&#xA;&#x9;data-event-rsvp-text=&#34;REMIND ME&#34;&#xD;&#xA;&#x9;data-event-rsvp-icon=&#34;&#34;&#xD;&#xA;&#x9;data-event-rsvp-cta-text-color=&#34;#4A4A4A&#34;&#xD;&#xA;&#x9;data-event-rsvp-cta-bg-color=&#34;#FFFFFF&#34;&#xD;&#xA;&#x9;data-event-rsvp-cta-border-color=&#34;#4A4A4A&#34;&#xD;&#xA;&#x9;data-event-rsvp-cta-border-width=&#34;1px&#34;&#xD;&#xA;&#x9;data-event-rsvp-cta-border-radius=&#34;4px&#34;&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;data-follow-section-position=&#34;hidden&#34;&#xD;&#xA;&#x9;data-follow-section-alignment=&#34;center&#34;&#xD;&#xA;&#x9;data-follow-section-header-text=&#34;Get updates on new shows, new music, and more.&#34;&#xD;&#xA;&#x9;data-follow-section-cta-size=&#34;medium&#34;&#xD;&#xA;&#x9;data-follow-section-cta-text=&#34;FOLLOW&#34;&#xD;&#xA;&#x9;data-follow-section-cta-icon=&#34;true&#34;&#xD;&#xA;&#x9;data-follow-section-cta-text-color=&#34;#FFFFFF&#34;&#xD;&#xA;&#x9;data-follow-section-cta-bg-color=&#34;#4A4A4A&#34;&#xD;&#xA;&#x9;data-follow-section-cta-border-color=&#34;#4A4A4A&#34;&#xD;&#xA;&#x9;data-follow-section-cta-border-width=&#34;0px&#34;&#xD;&#xA;&#x9;data-follow-section-cta-border-radius=&#34;4px&#34;&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;data-play-my-city-position=&#34;hidden&#34;&#xD;&#xA;&#x9;data-play-my-city-alignment=&#34;Center&#34;&#xD;&#xA;&#x9;data-play-my-city-header-text=&#34;Don’t see a show near you?&#34;&#xD;&#xA;&#x9;data-play-my-city-cta-size=&#34;medium&#34;&#xD;&#xA;&#x9;data-play-my-city-cta-text=&#34;REQUEST A SHOW&#34;&#xD;&#xA;&#x9;data-play-my-city-cta-icon=&#34;true&#34;&#xD;&#xA;&#x9;data-play-my-city-cta-text-color=&#34;#FFFFFF&#34;&#xD;&#xA;&#x9;data-play-my-city-cta-bg-color=&#34;#4A4A4A&#34;&#xD;&#xA;&#x9;data-play-my-city-cta-border-color=&#34;#4A4A4A&#34;&#xD;&#xA;&#x9;data-play-my-city-cta-border-width=&#34;0px&#34;&#xD;&#xA;&#x9;data-play-my-city-cta-border-radius=&#34;4px&#34;&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;data-optin-font=&#34;&#34;&#xD;&#xA;&#x9;data-optin-text-color=&#34;&#34;&#xD;&#xA;&#x9;data-optin-bg-color=&#34;&#34;&#xD;&#xA;&#x9;data-optin-cta-text-color=&#34;&#34;&#xD;&#xA;&#x9;data-optin-cta-bg-color=&#34;&#34;&#xD;&#xA;&#x9;data-optin-cta-border-width=&#34;&#34;&#xD;&#xA;&#x9;data-optin-cta-border-radius=&#34;&#34;&#xD;&#xA;&#x9;data-optin-cta-border-color=&#34;&#34;&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;data-language=&#34;de&#34;&#xD;&#xA;&#x9;data-layout-breakpoint=&#34;100&#34;&#xD;&#xA;&#x9;data-app-id=&#34;&#34;&#xD;&#xA;&#x9;data-affil-code=&#34;&#34;&#xD;&#xA;&#x9;data-bit-logo-position=&#34;bottomRight&#34;&#xD;&#xA;&#x9;data-bit-logo-color=&#34;#CCCCCC&#34;&#xD;&#xA;&#x9;&#xD;&#xA;    &gt;&lt;/a&gt;</description>
     </item>
-    
+    <item>
+      <title>Vollkornmail</title>
+      <link>//localhost:1313/vollkornmail.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/vollkornmail.html</guid>
+      <description>&lt;p&gt;Vollkornmail ist Samuels monatlicher Brief und steckt voller wichtiger Nährstoffe! 💌&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Informationen zu anstehenden Shows&lt;/li&gt;&#xA;&lt;li&gt;Ticketverlosungen&lt;/li&gt;&#xA;&lt;li&gt;Flachwitz des Monats&lt;/li&gt;&#xA;&lt;li&gt;Exklusive Einblicke in sein Dating-Leben&lt;/li&gt;&#xA;&lt;li&gt;Nasenflöten-Testberichte&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Sei kein Weißbrot – meld dich an!&lt;/p&gt;&#xA;&#xD;&#xA;&#xA;&lt;div id=&#34;mc_embed_shell&#34;&gt;&#xA;    &lt;link href=&#34;//cdn-images.mailchimp.com/embedcode/classic-061523.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;&#xA;    &lt;style type=&#34;text/css&#34;&gt;&#xA;        /*#mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}&#xA;        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.&#xA;           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */&#xA;        #mc-embedded-subscribe-form input[type=checkbox]{display: inline; width: auto;margin-right: 10px;}&#xA;        #mergeRow-gdpr {margin-top: 20px;}&#xA;        #mergeRow-gdpr fieldset label {font-weight: normal;}&#xA;        #mc-embedded-subscribe-form .mc_fieldset{border:none;min-height: 0px;padding-bottom:0px;}&#xA;        input[type=&#34;number&#34;] {&#xA;        -moz-appearance: textfield; /* Firefox */&#xA;        }&#xA;        input[type=&#34;number&#34;]::-webkit-inner-spin-button,&#xA;        input[type=&#34;number&#34;]::-webkit-outer-spin-button {&#xA;        -webkit-appearance: none;&#xA;        margin: 0;&#xA;        }&#xA;        .form-box {&#xA;        background-color: #f3e8d1;   /* heller Kasten */&#xA;        padding: 1.5rem;             /* Innenabstand */&#xA;        border-radius: 12px;         /* abgerundete Ecken */&#xA;        border: 1px solid #ccc;      /* optionaler Rand */&#xA;        max-width: 600px;&#xA;        margin: 2rem auto;           /* zentriert mit Abstand */&#xA;        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05); /* dezenter Schatten */&#xA;        }&#xA;    &lt;/style&gt;&#xA;&lt;div id=&#34;mc_embed_signup&#34; class=&#34;form-box&#34;&gt;&#xA;    &lt;form action=&#34;https://samuelkilian.us18.list-manage.com/subscribe/post?u=9f061ee0cb742764103e2f0e8&amp;amp;id=9e612650a9&amp;amp;v_id=6127&amp;amp;f_id=008bb6e6f0&#34; method=&#34;post&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate&#34; target=&#34;_blank&#34;&gt;&#xA;        &lt;div id=&#34;mc_embed_signup_scroll&#34;&gt;&#xA;            &lt;!-- &lt;div class=&#34;indicates-required&#34;&gt;&lt;span class=&#34;asterisk&#34;&gt;*&lt;/span&gt; Angaben erforderlich&lt;/div&gt; --&gt;&#xA;            &lt;div class=&#34;mc-field-group&#34;&gt;&lt;label for=&#34;mce-EMAIL&#34;&gt;Deine E-Mail-Adresse &lt;span class=&#34;asterisk&#34;&gt;*&lt;/span&gt;&lt;/label&gt;&lt;input type=&#34;email&#34; name=&#34;EMAIL&#34; class=&#34;required email&#34; id=&#34;mce-EMAIL&#34; required=&#34;&#34; value=&#34;&#34;&gt;&lt;/div&gt;&lt;div class=&#34;mc-field-group&#34;&gt;&lt;label for=&#34;mce-NAME&#34;&gt;Dein Name &lt;/label&gt;&lt;input type=&#34;text&#34; name=&#34;NAME&#34; class=&#34; text&#34; id=&#34;mce-NAME&#34; value=&#34;&#34;&gt;&lt;/div&gt;&lt;div class=&#34;mc-field-group&#34;&gt;&lt;label for=&#34;mce-PLZ&#34;&gt;Deine Postleitzahl &lt;/label&gt;&lt;input type=&#34;number&#34; name=&#34;PLZ&#34; class=&#34; number&#34; id=&#34;mce-PLZ&#34; value=&#34;&#34;&gt;&lt;/div&gt;&#xA;            &lt;div id=&#34;mergeRow-gdpr&#34; class=&#34;mergeRow gdpr-mergeRow content__gdprBlock mc-field-group&#34;&gt;&lt;div class=&#34;content__gdpr&#34;&gt;&#xA;            &lt;small&gt;&lt;p style=&#34;color:red&#34;&gt;Falls du die Bestätigungsmail nicht siehst, schau im Spam-Ordner nach.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

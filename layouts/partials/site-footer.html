@@ -1,0 +1,24 @@
+<footer class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between items-center">
+    
+    <!-- Links: Copyright -->
+    <div class="f5 white-70">
+      &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safe.HTML }} {{ now.Format "2006"}} {{ end }}
+    </div>
+    
+    <!-- Mitte: Impressum -->
+    <div class="f5 white-70">
+      {{ if .Site.Params.mysite.impressum }}
+        <a href="{{ (site.GetPage "impressum").RelPermalink }}" class="hover-white white-70 no-underline">
+  Impressum
+</a>
+      {{ end }}
+    </div>
+    
+    <!-- Rechts: Social-Icons -->
+    <div>
+      {{ partials.IncludeCached "social/follow.html" . }}
+    </div>
+
+  </div>
+</footer>
