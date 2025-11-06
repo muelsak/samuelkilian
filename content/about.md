@@ -1,7 +1,9 @@
 ---
 title: "Leben & Werk"
 draft: false
-menu: main
+menus:
+  main:
+    weight: 30
 featured_image: 'cave_2_cut_credit_web.jpg'
 ---
 

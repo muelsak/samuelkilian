@@ -1,7 +1,9 @@
 ---
 title: "Termine"
 draft: false
-menu: main
+menus:
+  main:
+    weight: 10
 featured_image: 'blinker_cut_credit.jpg'
 ---
 

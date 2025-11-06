@@ -5,19 +5,22 @@ description: "Musik-Comedy und Kabarett"
 theme_version: '2.8.2'
 featured_image: 'pic1_cut_web.jpg'
 ---
-<div style="
-  background: linear-gradient(90deg, #6cb38b, #78d8a2);
-  color: white;
-  font-size: 1.5rem;
-  font-weight: bold;
-  text-align: center;
-  padding: 1rem 1.5rem;
-  border-radius: 1rem;
-  margin: 2rem 0;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-">
-  Jury- und Publikumspreis <br> Obernburger Mühlstein 2025
+
+<link rel="stylesheet" href="/css/slider-js.css">
+<script src="/js/slider.js" defer></script>
+
+<div class="slider-wrap" aria-label="Auszeichnungen">
+  <button class="slider-btn left" aria-label="Zurück">&larr;</button>
+  <div class="slider">
+    <div class="slide">🏆 Jury- und Publikumspreis 🏆 <br> Obernburger Mühlstein 2025</div>
+    <div class="slide">🏆 Top-3-Platzierung 🏆 <br> Bielefelder Kabarettpreis 2025</div>
+    <div class="slide">🏆 Top-3-Platzierung 🏆 <br> Oltner Kabarettcasting 2025</div>
+    <div class="slide">🏆 Songslam-Gewinner 🏆 <br> Tübingen 2025 </div>
+    <div class="slide">🏆 Songslam-Gewinner 🏆 <br> Frankfurt 2025 </div>
+  </div>
+  <button class="slider-btn right" aria-label="Weiter">&rarr;</button>
 </div>
+
 
 "Ich geh jetzt bouldern! Ja-ha!"  
 *Mark Forster*

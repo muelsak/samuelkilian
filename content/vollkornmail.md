@@ -1,7 +1,9 @@
 ---
 title: "Vollkornmail"
 draft: false
-menu: main
+menus:
+  main:
+    weight: 40
 featured_image: 'bruecke_cut_web.jpg'
 ---
 

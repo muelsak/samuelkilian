@@ -1,8 +1,12 @@
 ---
 title: "Kontakt"
 draft: false
-menu: main
+menus:
+  main:
+    weight: 60
 featured_image: 'pic1_cut_web.jpg'
 ---
 
-info@samuelkilian.de
+Booking-Anfragen an booking@samuelkilian.de.  
+
+Allgemeine Anfragen an info@samuelkilian.de.

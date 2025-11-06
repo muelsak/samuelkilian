@@ -1,0 +1,33 @@
+/* slider.css */
+.badge-slider {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  gap: 1rem;
+  padding: 1rem;
+  scrollbar-width: none; /* Firefox */
+}
+.badge-slider::-webkit-scrollbar { display: none; } /* Chrome/Safari */
+
+.badge-slide {
+  flex: 0 0 80%; /* Breite eines Slides (80% des Viewports). Passe an */
+  max-width: 720px;
+  scroll-snap-align: start;
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+  background: linear-gradient(90deg, #f59e0b, #ef4444);
+  color: white;
+  font-weight: 700;
+  font-size: 1.1rem;
+  min-height: 80px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+/* kleinere Slide-Breite auf Desktop oder full width auf Mobile: */
+@media (min-width: 768px) {
+  .badge-slide { flex: 0 0 45%; }
+}

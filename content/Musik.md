@@ -1,7 +1,9 @@
 ---
 title: "Musik"
 draft: false
-menu: main
+menus:
+  main:
+    weight: 20
 featured_image: "cave_cut2_credit_web.jpg"
 ---
 
