@@ -15,6 +15,7 @@ featured_image: 'pic1_cut_web.jpg'
     <div class="slide">🏆 Jury- und Publikumspreis 🏆 <br> Obernburger Mühlstein 2025</div>
     <div class="slide">🏆 Top-3-Platzierung 🏆 <br> Bielefelder Kabarettpreis 2025</div>
     <div class="slide">🏆 Top-3-Platzierung 🏆 <br> Oltner Kabarettcasting 2025</div>
+    <div class="slide">🏆 Songslam-Jahressieger 🏆 <br> Tübingen 2025 </div>
     <div class="slide">🏆 Songslam-Gewinner 🏆 <br> Tübingen 2025 </div>
     <div class="slide">🏆 Songslam-Gewinner 🏆 <br> Frankfurt 2025 </div>
   </div>
