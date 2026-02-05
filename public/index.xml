@@ -8,13 +8,6 @@
     <language>en</language>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Boulderhallen-Tour</title>
-      <link>//localhost:1313/boulderhallentour.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/boulderhallentour.html</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Samuel Kilian bringt sein preisgekröntes Musik-Comedy-Programm direkt in deine Boulderhalle!&lt;/strong&gt;&#xA;Bekannt durch seinen viralen Song &lt;strong&gt;„Ich geh jetzt bouldern“&lt;/strong&gt;, verbindet er Live-Musik, Comedy und Bouldern zu einem einzigartigen Erlebnis – mitten im laufenden Hallenbetrieb.&lt;br&gt;&#xA;Der Abend besteht aus &lt;strong&gt;drei 20-minütigen Sets&lt;/strong&gt; (um &lt;strong&gt;18:00&lt;/strong&gt;, &lt;strong&gt;19:00&lt;/strong&gt; und &lt;strong&gt;20:00 Uhr&lt;/strong&gt;). Davor, dazwischen und danach habt ihr wie gewohnt Zeit zum Bouldern – gerne auch gemeinsam mit Samuel, der sich freut, wenn ihr ihm nochmal das mit dem Toe-Hook zeigt.&lt;br&gt;&#xA;Das Beste: &lt;strong&gt;Die komplette Show ist im regulären Halleneintritt enthalten.&lt;/strong&gt;&lt;br&gt;&#xA;Kommt vorbei und erlebt Musik-Comedy auf eine völlig neue Art!&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Impressum</title>
       <link>//localhost:1313/impressum.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -41,6 +34,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/musik.html</guid>
       <description>&lt;p&gt;&lt;strong&gt;&amp;ldquo;Ich geh&amp;rsquo; jetzt bouldern&amp;rdquo;&lt;/strong&gt;&lt;br&gt;&#xA;Und zwar oberkörperfrei und mit Haferlatte. Mit viel Selbstironie berichtet Samuel Kilian nicht nur von seinem neuen Hobby, sondern auch von alltäglichen Problemen und kreativen Lösungen. Sei es der Rammbock gegen Hindernisse auf dem Fahrradweg oder die Kettensäge gegen Kettenraucher. Mit einem Augenzwinkern berichtet der notorische Single von Erektionsproblemen und schief gelaufenen Tinder-Dates. Als promovierter Statistiker ist er dabei sogar für Doktorspiele qualifiziert.&lt;/p&gt;&#xA;&lt;p&gt;Mit Comedy, Musik und Küchentipps ist seine Show alles andere als vorhersehbar. Ob Schlager oder Hip-Hop, kein Genre ist vor ihm sicher. Seine Pointen unterstreicht er mit überraschenden Instrumenten und seine Wortwitze sind flacher als unsere Erde.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Referenzen</title>
+      <link>//localhost:1313/referenzen.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/referenzen.html</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;./css/blockquote.css&#34;&gt;&#xA;&lt;h1 id=&#34;auszeichnungen&#34;&gt;Auszeichnungen&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Obernburger Mühlstein (2025) - Jury- und Publikumspreis&lt;/li&gt;&#xA;&lt;li&gt;Bielefelder Kabarettpreis (2025) - Top-3-Platzierung&lt;/li&gt;&#xA;&lt;li&gt;Oltner Kabarettcasting (2025) - Top-3-Platzierung&lt;/li&gt;&#xA;&lt;li&gt;Songslam Tübingen - Jahresfinale (2025) - Sieger&lt;/li&gt;&#xA;&lt;li&gt;Songslam Tübingen (2025) - Sieger&lt;/li&gt;&#xA;&lt;li&gt;Songslam Frankfurt (2025) - Sieger&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt; &lt;/h2&gt;&#xA;&lt;h1 id=&#34;was-die-presse-sagt&#34;&gt;Was die Presse sagt&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Die Zuschauer im voll besetzten Haus waren begeistert vom lakonischen Witz und den meisterhaft geschmiedeten Liedern. Nichts war vorhersehbar.&amp;rdquo;&lt;br&gt;&#xA;&lt;em&gt;Bergsträßer Anzeiger (2026)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Samuel Kilian zuzuhören, ist wie ein Kneipenabend mit Kumpels. Es wird gewitzelt und gelacht, dann, für ein paar Minuten, wird es kurz ernst, nur um danach noch mehr herumzualbern.&amp;rdquo;&lt;br&gt;&#xA;&lt;em&gt;Südwest Presse (2026)&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Termine</title>

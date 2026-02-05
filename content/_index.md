@@ -23,18 +23,13 @@ featured_image: 'pic1_cut_web.jpg'
 </div>
 
 
-"Ich geh jetzt bouldern! Ja-ha!"  
-*Mark Forster*
+"Die Zuschauer im voll besetzten Haus waren begeistert vom lakonischen Witz und den meisterhaft geschmiedeten Liedern. Nichts war vorhersehbar."   
+*Bergsträßer Anzeiger (2026)* 
 &nbsp;  
 &nbsp;  
 
-"Wie er mit einem Augenzwinkern die Leiden des jungen Studenten besingt, und per Kazoo dramatisiert, erinnert der Schlaks an eine lässigere Bodo-Wartke-Inkarnation. Spätestens als er von der Gitarre ans Klavier wechselt, um die sanften Töne seines "Element" anzuschlagen, hat er das Publikum – insbesondere die jungen Damen in der letzten Reihe – überzeugt."  
-*Rhein-Neckar-Zeitung*
-&nbsp;  
-&nbsp;  
-
-"Die Besucher schätzten ihn spürbar als coole Socke, wenn er frisch und lebendig zwischen den Genres wechselte."  
-*Main-Echo*
+"Samuel Kilian erinnert an eine lässigere Bodo-Wartke-Inkarnation."  
+*Rhein-Neckar-Zeitung (2022)* 
 
 
 {{< rawhtml >}}

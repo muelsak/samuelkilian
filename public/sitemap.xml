@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/boulderhallentour.html</loc>
-  </url><url>
     <loc>//localhost:1313/categories/index.html</loc>
   </url><url>
     <loc>//localhost:1313/impressum.html</loc>
@@ -14,7 +12,7 @@
   </url><url>
     <loc>//localhost:1313/musik.html</loc>
   </url><url>
-    <loc>//localhost:1313/musik2.html</loc>
+    <loc>//localhost:1313/referenzen.html</loc>
   </url><url>
     <loc>//localhost:1313/index.html</loc>
   </url><url>
