@@ -4,7 +4,7 @@ draft: false
 menus:
   main:
     weight: 25
-featured_image: "cave_cut2_credit_web.jpg"
+featured_image: "mühlstein.jpg"
 ---
 <link rel="stylesheet" href="/css/blockquote.css">
 
