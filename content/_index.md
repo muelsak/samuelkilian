@@ -12,6 +12,7 @@ featured_image: 'pic1_cut_web.jpg'
 <div class="slider-wrap" aria-label="Auszeichnungen">
   <button class="slider-btn left" aria-label="Zurück">&larr;</button>
   <div class="slider">
+    <div class="slide">🏆 Jury-Silber und Publikumspreis 🏆 <br> Rostocker Koggenzieher 2026</div>
     <div class="slide">🏆 Jury- und Publikumspreis 🏆 <br> Obernburger Mühlstein 2025</div>
     <div class="slide">🏆 Top-3-Platzierung 🏆 <br> Bielefelder Kabarettpreis 2025</div>
     <div class="slide">🏆 Top-3-Platzierung 🏆 <br> Oltner Kabarettcasting 2025</div>

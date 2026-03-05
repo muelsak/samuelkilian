@@ -10,6 +10,7 @@ featured_image: "mühlstein.jpg"
 
 
 # Auszeichnungen
+* Rostocker Koggenzieher (2026) - Jury-Silber und Publikumspreis
 * Obernburger Mühlstein (2025) - Jury- und Publikumspreis 
 * Bielefelder Kabarettpreis (2025) - Top-3-Platzierung
 * Oltner Kabarettcasting (2025) - Top-3-Platzierung
